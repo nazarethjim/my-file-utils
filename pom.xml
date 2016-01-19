@@ -3,7 +3,7 @@
 
   <groupId>com.ixxus.test</groupId>
   <artifactId>my-file-utils</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.7-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>my-file-utils</name>
