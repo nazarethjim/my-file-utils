@@ -1,7 +1,7 @@
 package com.ixxus.test.my_file_utils;
 
 /**
- * Hello world! Application Project
+ * Application Project
  *
  */
 public class App
